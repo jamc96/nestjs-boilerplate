@@ -1,0 +1,7 @@
+db:
+  type: 'mysql'
+  port: 3306
+  database: 'testdb'
+
+jwt:
+  expiresIn: 3600
